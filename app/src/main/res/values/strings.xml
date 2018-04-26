@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="google_maps_API_key">AIzaSyB-YyBv-3lN-giwIZW6GCsc03FM6h6scvk</string>
+    <string name="create_Account">Create Account</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="signOut">Sign Out</string>
+</resources>
